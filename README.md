@@ -1,4 +1,4 @@
-<img width="525" height="1048" alt="image" src="https://github.com/user-attachments/assets/0d9e2257-76b3-4f3e-b73b-6f0ebb271ffd" />
+
 # Ex.No:1 To create a employee details fields and to display the employee details using Firebase Database in Android Studio.
 
 
