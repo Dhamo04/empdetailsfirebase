@@ -1,4 +1,4 @@
-
+<img width="525" height="1048" alt="image" src="https://github.com/user-attachments/assets/0d9e2257-76b3-4f3e-b73b-6f0ebb271ffd" />
 # Ex.No:1 To create a employee details fields and to display the employee details using Firebase Database in Android Studio.
 
 
@@ -131,7 +131,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## OUTPUT
-
+<img width="1920" height="1080" alt="Screenshot (672)" src="https://github.com/user-attachments/assets/4e513f47-19a9-4bb6-98a1-0846fb42e896" />
 
 <img width="525" height="1048" alt="image" src="https://github.com/user-attachments/assets/70f4a201-a00c-49f2-9c97-aa9edf5565fe" />
 
